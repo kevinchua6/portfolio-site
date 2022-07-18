@@ -1,18 +1,9 @@
 {
-  "mindful-hacks": {
-    "id": "mindful-hacks",
-    "year": "2021",
-    "icon": "mindful-hacks/mindful-hacks.jpg",
-    "url": "https://github.com/kevinchua6/Colorful-Mood",
-    "title": "MindfulHacks Hackathon: Colorful Mood",
-    "body": "● Analyzed mental health issues in society with a team of 4 to ideate a mood management app effective in combating psychiatric problem domains. \n● Created a comprehensive Figma document detailing user experience and application workflow with over 10 wireframes and mockups to give visualization to abstract ideas. \n● Developed a demo Flutter mobile app to materialize high-level wireframes and showcase viability of an actual implementation. \n● Pitched and demoed project idea convincingly to experts in mental healthcare and won overall 4th place out of over 100 participants.",
-    "tags": ["Flutter", "Dart", "Figma"]
-  },
   "antd-table-saveas-excel": {
     "year": "2022",
     "title": "antd-table-saveas-excel",
     "url": "https://www.npmjs.com/package/antd-table-saveas-excel",
-    "body": "● Maintainer and contributor of npm package with 900+ weekly downloads. \n● Allows for easy exporting of Ant Design tables to xlsx/csv format, with support for different configurations and styling.",
+    "body": "● Maintainer and contributor of npm package with 3000+ weekly downloads at its peak. \n● Allows for easy exporting of Ant Design tables to xlsx/csv format, with support for different configurations and styling.",
     "tags": ["npm", "Typescript", "Ant Design"],
     "gallery": [
       "1home.png",
@@ -23,5 +14,46 @@
       "6fflist.png",
       "7ffentry.png"
     ]
+  },
+  "catcher": {
+    "id": "catcher",
+    "title": "CATcher",
+    "year": "2022",
+    "url": "https://github.com/CATcher-org/CATcher",
+    "body": "● Contributor to CATcher, a cross-platform application for Crowd-sourced Anonymous Testing of software, used by 700+ students every semester for grading in their software engineering module.",
+    "tags": ["Javascript", "three.js"]
+  },
+  "lifehack": {
+    "id": "lifehack",
+    "year": "2022",
+    "url": "https://devpost.com/software/recycle-go-where",
+    "title": "Lifehack Hackathon: Recycle Go Where",
+    "body": "● Recycle Go Where is a convenient platform to find the appropriate e-waste recycling bin nearest to you. \n● It allows searching by e-waste type, so that you can find a recycling bin that is appropriate for the types of e-waste that you have. \n● Designed to be integrated easily into the government's existing “Go Where” line of websites, allowing it to reach more users as many Singaporeans are already familiar with the “Go Where” websites which was met with overwhelming success during the Covid period",
+    "tags": ["Next.js", "Typescript", "Google Maps API"]
+  },
+  "mindful-hacks": {
+    "id": "mindful-hacks",
+    "year": "2021",
+    "icon": "mindful-hacks/mindful-hacks.jpg",
+    "url": "https://devpost.com/software/colourful-mood",
+    "title": "MindfulHacks Hackathon: Colorful Mood",
+    "body": "● Analyzed mental health issues in society with a team of 4 to ideate a mood management app effective in combating psychiatric problem domains. \n● Created a comprehensive Figma document detailing user experience and application workflow with over 10 wireframes and mockups to give visualization to abstract ideas. \n● Developed a demo Flutter mobile app to materialize high-level wireframes and showcase viability of an actual implementation. \n● Pitched and demoed project idea convincingly to experts in mental healthcare and won overall 4th place out of over 100 participants.",
+    "tags": ["Flutter", "Dart", "Figma"]
+  },
+  "todomi": {
+    "id": "todomi",
+    "title": "Todomi",
+    "year": "2020",
+    "url": "https://github.com/kevinchua6/Todomi",
+    "body": "● Built a todo list fullstack application with a sleek drag and drop interface similar to Google Keep. ",
+    "tags": ["React", "Typescript", "Ruby on Rails", "PostgreSQL"]
+  },
+  "tic-tac-toe": {
+    "id": "tic-tac-toe",
+    "title": "3D TicTacToe",
+    "year": "2019",
+    "url": "https://github.com/kevinchua6/3d-tictactoe",
+    "body": "● Built a 3D tic-tac-toe game as a way to experiment with three.js. \n● Features a random AI that blocks game-winning moves by the player.",
+    "tags": ["Javascript", "three.js"]
   }
 }

@@ -38,7 +38,7 @@
     "title": "Google Developer Student Clubs NUS - Project Siew Dai",
     "subtitle": "Fullstack Engineer",
     "url": "https://dsc.comp.nus.edu.sg/our-projects",
-    "body": "● Developed a Stakeholder Management System for Diabetes Singapore to digitalise thousands of data entries from their members, volunteers and event participants previously recorded on physical documents.\n● Saved over 4k lines of code by abstracting multiple pages into a single generic component using Typescript generics and union types, improving code readability and maintainability.",
+    "body": "● Developed a Stakeholder Management System for Diabetes Singapore to digitalise thousands of data entries from their members, volunteers and event participants previously recorded on physical documents.\n● Honoured a plaque by Minister Chan Chun Seng as a commendation for our development efforts.\n● Saved over 4k lines of code by abstracting 7 similar workflows into multiple generic components using Typescript generics and union types, improving code readability and maintainability.",
     "tags": [
       "React",
       "Redux",
