@@ -9,6 +9,8 @@ import teaching from "../data/teaching.json";
 import work from "../data/work.json";
 import projects from "../data/projects.json";
 
+import "./Resume.css";
+
 const Resume = () => (
   <Page title="Portfolio">
     <p>
@@ -17,7 +19,7 @@ const Resume = () => (
       Developers Student Clubs and have taught a couple of modules.
     </p>
 
-    <Anchor>
+    <Anchor id="sidebar">
       <Anchor.Link href="#/resume/#work-experience" title="Work Experience" />
       <Anchor.Link href="#/resume/#projects" title="Projects" />
       <Anchor.Link href="#/resume/#teaching" title="Teaching" />
