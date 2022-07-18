@@ -1,31 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f5ccb89.chunk.css",
-    "main.js": "/static/js/main.e4743ddb.chunk.js",
-    "main.js.map": "/static/js/main.e4743ddb.chunk.js.map",
+    "main.css": "/static/css/main.d9d0f280.chunk.css",
+    "main.js": "/static/js/main.0ad9ba16.chunk.js",
+    "main.js.map": "/static/js/main.0ad9ba16.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.146895b5.js",
     "runtime-main.js.map": "/static/js/runtime-main.146895b5.js.map",
     "static/css/2.3cb76441.chunk.css": "/static/css/2.3cb76441.chunk.css",
-    "static/js/2.7217858a.chunk.js": "/static/js/2.7217858a.chunk.js",
-    "static/js/2.7217858a.chunk.js.map": "/static/js/2.7217858a.chunk.js.map",
+    "static/js/2.adc5f949.chunk.js": "/static/js/2.adc5f949.chunk.js",
+    "static/js/2.adc5f949.chunk.js.map": "/static/js/2.adc5f949.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.25ae04130671cc1b9a9d9938456a0782.js": "/precache-manifest.25ae04130671cc1b9a9d9938456a0782.js",
+    "precache-manifest.b94ea73d29db1f3068eb02384180a2b2.js": "/precache-manifest.b94ea73d29db1f3068eb02384180a2b2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.3cb76441.chunk.css.map": "/static/css/2.3cb76441.chunk.css.map",
-    "static/css/main.6f5ccb89.chunk.css.map": "/static/css/main.6f5ccb89.chunk.css.map",
-    "static/js/2.7217858a.chunk.js.LICENSE.txt": "/static/js/2.7217858a.chunk.js.LICENSE.txt",
-    "static/media/2018-ecg-fair.md": "/static/media/2018-ecg-fair.b7d3cc02.md",
-    "static/media/2019-garden-campus.md": "/static/media/2019-garden-campus.86cb8f9b.md",
-    "static/media/2019-open-house.md": "/static/media/2019-open-house.b7b45e92.md",
-    "static/media/lifexp-bot.md": "/static/media/lifexp-bot.10aacce6.md",
-    "static/media/mindful-hacks.jpg": "/static/media/mindful-hacks.b4306989.jpg",
-    "static/media/timetable-bot.md": "/static/media/timetable-bot.d5e74e52.md"
+    "static/css/main.d9d0f280.chunk.css.map": "/static/css/main.d9d0f280.chunk.css.map",
+    "static/js/2.adc5f949.chunk.js.LICENSE.txt": "/static/js/2.adc5f949.chunk.js.LICENSE.txt",
+    "static/media/mindful-hacks.jpg": "/static/media/mindful-hacks.b4306989.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.146895b5.js",
     "static/css/2.3cb76441.chunk.css",
-    "static/js/2.7217858a.chunk.js",
-    "static/css/main.6f5ccb89.chunk.css",
-    "static/js/main.e4743ddb.chunk.js"
+    "static/js/2.adc5f949.chunk.js",
+    "static/css/main.d9d0f280.chunk.css",
+    "static/js/main.0ad9ba16.chunk.js"
   ]
 }
