@@ -20,7 +20,7 @@
     "year": "May 2022 - Mar 2023",
     "title": "Bytedance - Global Payments Team",
     "subtitle": "Fullstack Engineer Intern",
-    "body": "• Architected and implemented Elasticsearch functionality for an existing relational database, improving search times by up to 500%\n• Developed an automatic hedging strategy platform to reduce foreign exchange risks faced by the company\n• Implemented permissions centre microservice using Remote Procedure Calls (RPC) unifying two separate permissions systems\n• Spearheaded initiative to increase platform stability with more robust error handling and consistent logging systems, standardising\nerror codes, leading to better developer experience when troubleshooting errors\n• Mentored onboarding junior engineers and performed code review",
+    "body": "● Architected and implemented Elasticsearch functionality for an existing relational database, improving search times by up to 500%\n● Developed an automatic hedging strategy platform to reduce foreign exchange risks faced by the company\n● Implemented permissions centre microservice using Remote Procedure Calls (RPC) unifying two separate permissions systems\n● Spearheaded initiative to increase platform stability with more robust error handling and consistent logging systems, standardising\nerror codes, leading to better developer experience when troubleshooting errors\n● Mentored onboarding junior engineers and performed code review",
     "tags": [
       "React",
       "Arco Design",
