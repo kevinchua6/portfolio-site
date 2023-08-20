@@ -1,10 +1,26 @@
 [
   {
     "year": "May 2022 - Present",
+    "title": "Government Technology Agency - Government Digital Services Team",
+    "subtitle": "Fullstack Engineer Intern",
+    "body": "● Developing GatherSG, a Case Management System to allow users to track and monitor referral and coordinate items, prompt agencies for updates and assess cases collectively in a team of 11 software engineers",
+    "color": "green",
+    "tags": ["React", "Ant Design",
+     "Prisma",
+     "NodeJS",
+     "Redis",
+     "Typescript",
+     "JavaScript",
+     "MySQL",
+     "Docker",
+     "AWS"
+    ]
+  },
+  {
+    "year": "May 2022 - Mar 2023",
     "title": "Bytedance - Global Payments Team",
     "subtitle": "Fullstack Engineer Intern",
-    "body": "● Architected and implemented Elastic Search functionality for an established relational database, decreasing search time by up to 1/4\n● Implemented the Feedback system from the ground up for a Document Management System used by external merchants",
-    "color": "green",
+    "body": "• Architected and implemented Elasticsearch functionality for an existing relational database, improving search times by up to 500%\n• Developed an automatic hedging strategy platform to reduce foreign exchange risks faced by the company\n• Implemented permissions centre microservice using Remote Procedure Calls (RPC) unifying two separate permissions systems\n• Spearheaded initiative to increase platform stability with more robust error handling and consistent logging systems, standardising\nerror codes, leading to better developer experience when troubleshooting errors\n• Mentored onboarding junior engineers and performed code review",
     "tags": [
       "React",
       "Arco Design",
@@ -57,7 +73,6 @@
     "subtitle": "Fullstack Engineer Intern",
     "url": "https://www.comp.nus.edu.sg/~vwo/projects/2021-cms.html",
     "body": "● Built a Case Management System for Lions Befrienders Cluster Support Programme to track case work previously done manually with Word documents/Excel sheets used by hundreds of Befrienders\n● Migrated frontend for Case Management System for Care Corner from a legacy server-rendered view with Ruby on Rails to a new client-side rendering with React, improving the UX and performance for hundreds of staff",
-    "color": "green",
     "tags": ["Redux", "Typescript", "Ruby on Rails", "PostgreSQL", "MySQL"]
   },
   {

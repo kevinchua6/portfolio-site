@@ -1,5 +1,19 @@
 [
   {
+    "year": "Jan 2023 - April 2023",
+    "title": "CS3217 Software Engineering on Modern Application Platforms Teaching Assistant",
+    "body": "Guide Computer Science second and third years to learn: \n● Software engineering on modern application platforms such as mobile devices, the Web and cloud systems",
+    "color": "green",
+    "tags": ["teaching", "iOS"]
+  },
+  {
+    "year": "Aug 2022 - Nov 2022",
+    "title": "CS2103T Software Engineering Teaching Assistant",
+    "body": "Tutor and guide 10 Computer Science second years to learn: \n● Four main areas of software development, namely object-oriented system analysis, object-oriented system modelling and design, implementation, and testing, with emphasis on system modelling and design and implementation of software courses that work cooperatively to fulfill the requirements of the system \n● Tools and techniques for software development, such as Unified Modelling Language (UML), program specification, and testing methods",
+    "color": "green",
+    "tags": ["teaching", "UML", "Testing"]
+  },
+  {
     "year": "Jan 2022 - Apr 2022",
     "title": "CS2030S Programming Methodology II Teaching Assistant",
     "body": "Tutor and guide 14 Computer Science freshmen during physical lab sessions to: \n● Explore 2 modern programming paradigms: object-oriented programming and functional programming \n● Understand conventional design patterns used in developing medium-scale software programs \n● Learn advanced programming constructs like polymorphism, inheritance, first class functions, closures, continuations, monads, etc",

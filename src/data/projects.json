@@ -1,4 +1,11 @@
 {
+  "google": {
+    "year": "2023",
+    "title": "Top 100 Teams Award Winner, 2023 Google Solution Challenge",
+    "url": "https://github.com/reCloset/reCloset",
+    "body": "● Won the top 100 prize out of 2000 teams worldwide in Google's international hackathon. \n● To combat the environmental degradation effects of fast fashion, this application aims to promote a circular economy and foster eco-friendly behaviors among consumers by encouraging them to exchange pre-loved clothing items and reduce waste.",
+    "tags": ["Flutter", "Google Cloud Services", "Firebase", "Tensorflow"]
+  },
   "antd-table-saveas-excel": {
     "year": "2022",
     "title": "antd-table-saveas-excel",

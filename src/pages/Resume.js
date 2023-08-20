@@ -14,9 +14,8 @@ import "./Resume.css";
 const Resume = () => (
   <Page title="Portfolio">
     <p>
-      Hello! I'm Kevin. I'm a Year 3 Computer Science student at the National
-      University of Singapore (NUS). I'm currently a tech lead at the Google
-      Developers Student Clubs and have taught a couple of modules.
+      Hello! I'm Kevin. I'm a final year Computer Science student at the National
+      University of Singapore (NUS). I'm currently interning at GovTech and have taught a couple of modules.
     </p>
 
     <Anchor id="sidebar">
